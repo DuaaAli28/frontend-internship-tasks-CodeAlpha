@@ -1,4 +1,4 @@
-# frontend-internship-tasks-CodeAlpha
+
 # Frontend Internship Tasks - CodeAlpha
 
 ## 📁 Projects
